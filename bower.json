@@ -1,0 +1,28 @@
+{
+  "name": "teste-front-end",
+  "description": "Teste para candidatos à parceria de Freela de desenvolvedor Front-end",
+  "main": "index.html",
+  "keywords": [
+    "teste",
+    "thiago",
+    "seixas"
+  ],
+  "authors": [
+    "Thiago Seixas"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.2.4",
+    "bootstrap": "latest",
+    "components-font-awesome": "^5.0.6",
+    "animate.css": "^3.5.2"
+  }
+}

@@ -1,5 +1,14 @@
 # Teste para candidatos à parceria de Freela de desenvolvedor Front-end
 
+## Tecnologias utilizadas
+- Bootstrap 4
+- JQuery 2.2.4
+- Font-Awesome
+
+## Como executar o teste
+- Ter o bower [bower](https://bower.io/) instalado
+- Na raiz do projeto executar ```bower install```
+
 
 ## Informações sobre o teste:
 

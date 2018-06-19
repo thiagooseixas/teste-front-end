@@ -80,10 +80,13 @@ body {
 }
 
 .no-link {
-    pointer-events: none;
-    cursor: default;
+    cursor: pointer;
     text-decoration: none;
     color: black;
+}
+
+.no-link:hover{
+    color: #41ceb3;
 }
 
 h2 {
